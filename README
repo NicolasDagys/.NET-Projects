@@ -1,0 +1,6 @@
+.NET projects and software development process documents (software engineering, scrum methodology, unified process)
+General project guide:
+1-Run the SQL Server scripts (database, structure, users, test data).
+2-Open the projects created in Visual Studio, so I recommend using VS.
+3-Once in VS, go to the “connection” class and adjust the connection string data according to your database manager.
+4-Set the project as the main project by right-clicking “Set as Main Project” (especially for MVC or website).
