@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Entidades Compartidas.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\bin\Debug\Entidades Compartidas.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Persistencia\obj\Debug\Persistencia.pdb

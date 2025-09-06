@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Entidades Compartidas\bin\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Entidades Compartidas\bin\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Entidades Compartidas\obj\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Entidades Compartidas\obj\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\bin\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\bin\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\bin\Debug\Entidades Compartidas.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\bin\Debug\Entidades Compartidas.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Entidades Compartidas\obj\Debug\Entidades Compartidas.pdb

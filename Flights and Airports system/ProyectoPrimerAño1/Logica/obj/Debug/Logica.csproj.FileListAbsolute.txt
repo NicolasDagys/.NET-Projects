@@ -1,0 +1,26 @@
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\bin\Debug\Logica.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\bin\Debug\Logica.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\bin\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\bin\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\obj\Debug\Logica.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto Aeropuertos\Logica\obj\Debug\Logica.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Logica.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Logica.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Entidades Compartidas.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Entidades Compartidas.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Logica.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Logica.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Entidades Compartidas.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Persistencia.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Entidades Compartidas.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\bin\Debug\Persistencia.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Primer Año\Proyecto Primer Año\Proyecto primer año el que va\ProyectoPrimerAño1\Logica\obj\Debug\Logica.pdb
