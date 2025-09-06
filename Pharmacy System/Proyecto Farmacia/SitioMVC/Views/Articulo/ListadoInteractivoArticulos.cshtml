@@ -1,0 +1,94 @@
+﻿@model IEnumerable<_1_EC.Articulo>
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Listado Interactivo Articulos</h2>
+
+<p>
+    @ViewBag.Mensaje
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tr>
+            <td>
+                @Html.TextBox("datoFiltro", null, new { placeholder = "Filtrar por nombre" }) <!-- es la caja de texto que ingresa dato y carga variable -->
+            </td>
+            <td>
+                @Html.DropDownList("codigoCat", ViewBag.ListaC as SelectList)<!-- drop donde se elige la categoría -->
+
+            </td>
+            <td>
+                <input type="submit" value="Filtrar" class=" btn btn-default" />
+            </td>
+            <td>
+                @Html.ActionLink("Limpiar", "ListadoInteractivoArticulos")
+            </td>
+            <td>
+                @Html.ActionLink("Volver al Listado Principal", "FormArticulosListar")
+            </td>
+        </tr>
+        </table>
+    }
+
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CodArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecioArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaVtoArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TipoPArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TamArt)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnaCat.NomCat)
+            </th>
+            <th></th>
+        </tr>
+
+    @foreach (_1_EC.Articulo item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CodArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NomArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrecioArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaVtoArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoPArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TamArt)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnaCat.NomCat)
+        </td>
+        <td>
+            @Html.ActionLink("Ventas Asociadas", "FormVentasAsociadasArt", "Venta", new { CodArt = item.CodArt }, new { @class = "btn btn-primary" })
+            @Html.ActionLink("Mostrar Articulo", "FormConsultarArticulo", new { item.CodArt }, new { @class = "btn btn-info" })
+        </td>
+    </tr>
+    }
+
+    </table>

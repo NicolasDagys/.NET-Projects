@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Proyecto Farmacia</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                @Html.ActionLink("Deslogueo", "Deslogueo", "Empleado", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("CRUD Categorias", "FormCategoriasListar", "Categoria", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("CRUD Articulos", "FormArticulosListar", "Articulo", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Mantenimiento Clientes", "MantenimientoClientes", "Cliente", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Alta Venta", "FormVentaAlta", "Venta", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Seguimiento Venta", "FormSeguimientoVenta", "Venta", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Lista Articulos", "FormArticulosListar", "Articulo", new { area = "" }, new { @class = "navbar-brand" })
+                @Html.ActionLink("Lista Clientes", "ListadoInteractivoCliente", "Cliente", new { area = "" }, new { @class = "navbar-brand" })
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>Proyecto Final</p>
+        </footer>
+    </div>
+</body>
+</html>

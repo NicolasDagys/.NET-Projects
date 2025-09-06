@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="FarmaciaModelStoreContainer" CdmEntityContainer="FarmaciaEntities">
+    <EntitySetMapping Name="Articulo">
+      <EntityTypeMapping TypeName="FarmaciaModel.Articulo">
+        <MappingFragment StoreEntitySet="Articulo">
+          <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+          <ScalarProperty Name="NomArt" ColumnName="NomArt" />
+          <ScalarProperty Name="PrecioArt" ColumnName="PrecioArt" />
+          <ScalarProperty Name="FechaVtoArt" ColumnName="FechaVtoArt" />
+          <ScalarProperty Name="TipoPArt" ColumnName="TipoPArt" />
+          <ScalarProperty Name="TamArt" ColumnName="TamArt" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Asignacion">
+      <EntityTypeMapping TypeName="FarmaciaModel.Asignacion">
+        <MappingFragment StoreEntitySet="Asignacion">
+          <ScalarProperty Name="NumVent" ColumnName="NumVent" />
+          <ScalarProperty Name="NumEst" ColumnName="NumEst" />
+          <ScalarProperty Name="FyHEst" ColumnName="FyHEst" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Categoria">
+      <EntityTypeMapping TypeName="FarmaciaModel.Categoria">
+        <MappingFragment StoreEntitySet="Categoria">
+          <ScalarProperty Name="CodCat" ColumnName="CodCat" />
+          <ScalarProperty Name="NomCat" ColumnName="NomCat" />
+          <ScalarProperty Name="Activo" ColumnName="Activo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="FarmaciaModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="CiCli" ColumnName="CiCli" />
+          <ScalarProperty Name="NomCli" ColumnName="NomCli" />
+          <ScalarProperty Name="NumTarjCli" ColumnName="NumTarjCli" />
+          <ScalarProperty Name="TelCli" ColumnName="TelCli" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Empleado">
+      <EntityTypeMapping TypeName="FarmaciaModel.Empleado">
+        <MappingFragment StoreEntitySet="Empleado">
+          <ScalarProperty Name="UsuEmp" ColumnName="UsuEmp" />
+          <ScalarProperty Name="NomEmp" ColumnName="NomEmp" />
+          <ScalarProperty Name="PassEmp" ColumnName="PassEmp" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Estado">
+      <EntityTypeMapping TypeName="FarmaciaModel.Estado">
+        <MappingFragment StoreEntitySet="Estado">
+          <ScalarProperty Name="NumEst" ColumnName="NumEst" />
+          <ScalarProperty Name="NomEst" ColumnName="NomEst" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Linea">
+      <EntityTypeMapping TypeName="FarmaciaModel.Linea">
+        <MappingFragment StoreEntitySet="Linea">
+          <ScalarProperty Name="NumVent" ColumnName="NumVent" />
+          <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+          <ScalarProperty Name="Cant" ColumnName="Cant" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Venta">
+      <EntityTypeMapping TypeName="FarmaciaModel.Venta">
+        <MappingFragment StoreEntitySet="Venta">
+          <ScalarProperty Name="NumVent" ColumnName="NumVent" />
+          <ScalarProperty Name="FechaVent" ColumnName="FechaVent" />
+          <ScalarProperty Name="DirEnvIoVent" ColumnName="DirEnvIoVent" />
+          <ScalarProperty Name="TotalVent" ColumnName="TotalVent" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK__Articulo__CodCat__0DAF0CB0" TypeName="FarmaciaModel.FK__Articulo__CodCat__0DAF0CB0" StoreEntitySet="Articulo">
+      <EndProperty Name="Categoria">
+        <ScalarProperty Name="CodCat" ColumnName="CodCat" />
+      </EndProperty>
+      <EndProperty Name="Articulo">
+        <ScalarProperty Name="CodArt" ColumnName="CodArt" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK__Venta__CiCli__1CF15040" TypeName="FarmaciaModel.FK__Venta__CiCli__1CF15040" StoreEntitySet="Venta">
+      <EndProperty Name="Cliente">
+        <ScalarProperty Name="CiCli" ColumnName="CiCli" />
+      </EndProperty>
+      <EndProperty Name="Venta">
+        <ScalarProperty Name="NumVent" ColumnName="NumVent" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

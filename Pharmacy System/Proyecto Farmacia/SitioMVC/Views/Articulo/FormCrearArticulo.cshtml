@@ -1,0 +1,82 @@
+﻿@model _1_EC.Articulo
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Nuevo Articulo</h2>
+
+@ViewBag.Mensaje
+
+@Html.ActionLink("Volver al Listado", "FormArticulosListar")
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.CodArt, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.CodArt, new { htmlAttributes = new { @class = "form-control" } }) <h6>10 letras/Números</h6>
+            @Html.ValidationMessageFor(model => model.CodArt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.NomArt, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.NomArt, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.NomArt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.PrecioArt, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.PrecioArt, new { htmlAttributes = new { @class = "form-control" } })<h6>10 Precio en pesos uruguayos $</h6>
+            @Html.ValidationMessageFor(model => model.PrecioArt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FechaVtoArt, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.EditorFor(model => model.FechaVtoArt, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.FechaVtoArt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TamArt, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.TextBoxFor(model => model.TamArt, new { htmlAttributes = new { @class = "form-control" } })<h6>Unidad-cant.unidades / Blister-cant.pastillas / Sobre-gr / Frasco-ml</h6>
+            @Html.ValidationMessageFor(model => model.TamArt, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Presentacion", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("TipoP", ViewBag.ListaP as SelectList, "Seleccionar Presentación")
+        </div>
+    </div>
+    
+    <div class="form-group">
+        @Html.Label("Categoría", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("codigoCat", ViewBag.ListaC as SelectList, "Seleccionar Categoría")
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Agregar" class="btn btn-default" />
+        </div>
+    </div>
+</div>
+}

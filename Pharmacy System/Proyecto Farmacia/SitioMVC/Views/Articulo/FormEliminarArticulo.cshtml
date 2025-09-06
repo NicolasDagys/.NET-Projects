@@ -1,0 +1,73 @@
+﻿@model _1_EC.Articulo
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+@ViewBag.Mensaje
+
+@Html.ActionLink("Volver al listado", "FormArticulosListar")
+
+<h3>Está seguro que desea eliminar el siguiente artículo?</h3>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CodArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CodArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FechaVtoArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FechaVtoArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TipoPArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoPArt)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TamArt)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TamArt)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> 
+        </div>
+    }
+</div>

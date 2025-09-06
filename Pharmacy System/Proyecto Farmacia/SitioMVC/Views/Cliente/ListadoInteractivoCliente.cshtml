@@ -1,0 +1,56 @@
+﻿@model IEnumerable<_1_EC.Cliente>
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Listado Interactivo de Clientes</h2>
+
+<p>
+    @ViewBag.Mensaje
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <table>
+        <tr>
+            <td>
+                @Html.TextBox("filtroNombre", null, new { placeholder = "Filtrar por nombre" })
+            </td>
+            <td>
+                <input type="submit" value="Filtrar" class="btn btn-default" />
+            </td>
+            <td>
+                @Html.ActionLink("Limpiar", "ListadoInteractivoCliente")
+            </td>
+        </tr>
+    </table>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cédula</th>
+            <th>Nombre</th>
+            <th>Número de Tarjeta</th>
+            <th>Teléfono</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cliente in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => cliente.CiCli)</td>
+                <td>@Html.DisplayFor(modelItem => cliente.NomCli)</td>
+                <td>@Html.DisplayFor(modelItem => cliente.NumTarjCli)</td>
+                <td>@Html.DisplayFor(modelItem => cliente.TelCli)</td>
+                <td>
+                    @Html.ActionLink("Ventas Asociadas", "FormVentasListarxCli", "Venta", new { CiCli = cliente.CiCli }, new { @class = "btn btn-primary" })
+                    @Html.ActionLink("Artículos Comprados", "FormVentasListarxArt", "Venta", new { ciCli = cliente.CiCli }, new { @class = "btn btn-info" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

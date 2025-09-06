@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FarmaciaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Articulo">
+    <Key>
+      <PropertyRef Name="CodArt" />
+    </Key>
+    <Property Name="CodArt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NomArt" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PrecioArt" Type="Int32" Nullable="false" />
+    <Property Name="FechaVtoArt" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TipoPArt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TamArt" Type="Int32" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Categoria" Relationship="Self.FK__Articulo__CodCat__0DAF0CB0" FromRole="Articulo" ToRole="Categoria" />
+  </EntityType>
+  <EntityType Name="Asignacion">
+    <Key>
+      <PropertyRef Name="NumVent" />
+      <PropertyRef Name="NumEst" />
+    </Key>
+    <Property Name="NumVent" Type="Int32" Nullable="false" />
+    <Property Name="NumEst" Type="Int32" Nullable="false" />
+    <Property Name="FyHEst" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="Estado" Relationship="Self.FK__Asignacio__NumEs__2E1BDC42" FromRole="Asignacion" ToRole="Estado" />
+  </EntityType>
+  <EntityType Name="Categoria">
+    <Key>
+      <PropertyRef Name="CodCat" />
+    </Key>
+    <Property Name="CodCat" Type="String" MaxLength="6" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NomCat" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Activo" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="CiCli" />
+    </Key>
+    <Property Name="CiCli" Type="String" MaxLength="9" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NomCli" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NumTarjCli" Type="String" MaxLength="16" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TelCli" Type="String" MaxLength="9" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Empleado">
+    <Key>
+      <PropertyRef Name="UsuEmp" />
+    </Key>
+    <Property Name="UsuEmp" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="NomEmp" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="PassEmp" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Estado">
+    <Key>
+      <PropertyRef Name="NumEst" />
+    </Key>
+    <Property Name="NumEst" Type="Int32" Nullable="false" />
+    <Property Name="NomEst" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Linea">
+    <Key>
+      <PropertyRef Name="NumVent" />
+      <PropertyRef Name="CodArt" />
+    </Key>
+    <Property Name="NumVent" Type="Int32" Nullable="false" />
+    <Property Name="CodArt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Cant" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Articulo" Relationship="Self.FK__Linea__CodArt__22AA2996" FromRole="Linea" ToRole="Articulo" />
+  </EntityType>
+  <EntityType Name="Venta">
+    <Key>
+      <PropertyRef Name="NumVent" />
+    </Key>
+    <Property Name="NumVent" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FechaVent" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="DirEnvIoVent" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TotalVent" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Asignacion" Relationship="Self.FK__Asignacio__NumVe__2D27B809" FromRole="Venta" ToRole="Asignacion" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK__Venta__CiCli__1CF15040" FromRole="Venta" ToRole="Cliente" />
+    <NavigationProperty Name="Linea" Relationship="Self.FK__Linea__NumVent__21B6055D" FromRole="Venta" ToRole="Linea" />
+  </EntityType>
+  <Association Name="FK__Articulo__CodCat__0DAF0CB0">
+    <End Role="Categoria" Type="Self.Categoria" Multiplicity="1" />
+    <End Role="Articulo" Type="Self.Articulo" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__Linea__CodArt__22AA2996">
+    <End Role="Articulo" Type="Self.Articulo" Multiplicity="1" />
+    <End Role="Linea" Type="Self.Linea" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Articulo">
+        <PropertyRef Name="CodArt" />
+      </Principal>
+      <Dependent Role="Linea">
+        <PropertyRef Name="CodArt" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Asignacio__NumEs__2E1BDC42">
+    <End Role="Estado" Type="Self.Estado" Multiplicity="1" />
+    <End Role="Asignacion" Type="Self.Asignacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Estado">
+        <PropertyRef Name="NumEst" />
+      </Principal>
+      <Dependent Role="Asignacion">
+        <PropertyRef Name="NumEst" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Asignacio__NumVe__2D27B809">
+    <End Role="Venta" Type="Self.Venta" Multiplicity="1" />
+    <End Role="Asignacion" Type="Self.Asignacion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venta">
+        <PropertyRef Name="NumVent" />
+      </Principal>
+      <Dependent Role="Asignacion">
+        <PropertyRef Name="NumVent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Venta__CiCli__1CF15040">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="Venta" Type="Self.Venta" Multiplicity="*" />
+  </Association>
+  <Association Name="FK__Linea__NumVent__21B6055D">
+    <End Role="Venta" Type="Self.Venta" Multiplicity="1" />
+    <End Role="Linea" Type="Self.Linea" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Venta">
+        <PropertyRef Name="NumVent" />
+      </Principal>
+      <Dependent Role="Linea">
+        <PropertyRef Name="NumVent" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FarmaciaEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Articulo" EntityType="Self.Articulo" />
+    <EntitySet Name="Asignacion" EntityType="Self.Asignacion" />
+    <EntitySet Name="Categoria" EntityType="Self.Categoria" />
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Empleado" EntityType="Self.Empleado" />
+    <EntitySet Name="Estado" EntityType="Self.Estado" />
+    <EntitySet Name="Linea" EntityType="Self.Linea" />
+    <EntitySet Name="Venta" EntityType="Self.Venta" />
+    <AssociationSet Name="FK__Articulo__CodCat__0DAF0CB0" Association="Self.FK__Articulo__CodCat__0DAF0CB0">
+      <End Role="Categoria" EntitySet="Categoria" />
+      <End Role="Articulo" EntitySet="Articulo" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Linea__CodArt__22AA2996" Association="Self.FK__Linea__CodArt__22AA2996">
+      <End Role="Articulo" EntitySet="Articulo" />
+      <End Role="Linea" EntitySet="Linea" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Asignacio__NumEs__2E1BDC42" Association="Self.FK__Asignacio__NumEs__2E1BDC42">
+      <End Role="Estado" EntitySet="Estado" />
+      <End Role="Asignacion" EntitySet="Asignacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Asignacio__NumVe__2D27B809" Association="Self.FK__Asignacio__NumVe__2D27B809">
+      <End Role="Venta" EntitySet="Venta" />
+      <End Role="Asignacion" EntitySet="Asignacion" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Venta__CiCli__1CF15040" Association="Self.FK__Venta__CiCli__1CF15040">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="Venta" EntitySet="Venta" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Linea__NumVent__21B6055D" Association="Self.FK__Linea__NumVent__21B6055D">
+      <End Role="Venta" EntitySet="Venta" />
+      <End Role="Linea" EntitySet="Linea" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

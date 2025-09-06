@@ -1,0 +1,59 @@
+﻿@model IEnumerable<_1_EC.Categoria>
+<!-- parametro que espera - col. objetos categoria-->
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Listado Categorias</h2>
+
+@ViewBag.Mensaje
+
+
+<p>  <!-- es un párrafo, separado del resto es como si fuera un enter-->
+    @Html.ActionLink("Crear Nueva", "FormCrearCategoria")
+</p>
+
+@using (Html.BeginForm())
+ {
+    @Html.AntiForgeryToken()
+    <div class= "form-actions no-color">
+        <div>
+            @Html.TextBox("DatoFiltro") <!-- es la caja de texto que ingresa dato y carga variable -->
+            <input type="submit" value="Filtrar" class=" btn btn-default"/>
+        </div>
+    </div>
+
+            }
+<table class="table"> <!-- etiqueta que arma espacio para una tabla-->
+    <tr> <!-- línea de títulos de la tabla-->
+        <th> <!-- muestra en negrita, datos normal es td-->
+            @Html.DisplayNameFor(model => model.CodCat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomCat)
+        </th>
+        <th>
+            <!-- columna sin título pq va a tener los enrutamientos para las acciones individuales-->
+        </th>
+    </tr>
+
+    @foreach (_1_EC.Categoria unaCat in Model)
+    {
+        <tr> <!--se hace una línea por cada categoría que tenga la colección -->
+            <td>
+                @Html.DisplayFor(modelItem => unaCat.CodCat)
+                @*despliega el contenido de un objeto (DisplayNameFor despliega el título de la propiedad*@
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => unaCat.NomCat)
+            </td>
+            <td>
+                @Html.ActionLink("Modificar", "FormModificarCategoria", new { unaCat.CodCat}) 
+                @Html.ActionLink("Consultar", "FormCategoriaConsultar", new { unaCat.CodCat}) 
+                @Html.ActionLink("Borrar", "FormEliminarCategoria", new {unaCat.CodCat})
+            </td>
+        </tr>
+    }
+
+</table>

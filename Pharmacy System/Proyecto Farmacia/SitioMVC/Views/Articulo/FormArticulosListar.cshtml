@@ -1,0 +1,89 @@
+﻿@model IEnumerable<_1_EC.Articulo>
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Listado Articulos</h2>
+
+@ViewBag.Mensaje
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "FormCrearArticulo")
+</p>
+
+<p>
+    @Html.ActionLink("Listado Interactivo", "ListadoInteractivoArticulos")
+</p>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="form-actions no-color">
+        <div>
+            @Html.TextBox("DatoFiltro") <!-- es la caja de texto que ingresa dato y carga variable -->
+            <input type="submit" value="Filtrar" class=" btn btn-default" />
+        </div>
+    </div>
+}
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CodArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NomArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecioArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaVtoArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TipoPArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TamArt)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.UnaCat.NomCat)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (_1_EC.Articulo unA in Model)
+    {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => unA.CodArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.NomArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.PrecioArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.FechaVtoArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.TipoPArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.TamArt)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => unA.UnaCat.NomCat)
+    </td>
+    <td>
+        @Html.ActionLink("Modificar", "FormModificarArticulo", new { unA.CodArt })
+        @Html.ActionLink("Consultar", "FormConsultarArticulo", new { unA.CodArt })
+        @Html.ActionLink("Borrar", "FormEliminarArticulo", new { unA.CodArt })
+    </td>
+</tr>
+    }
+
+</table>

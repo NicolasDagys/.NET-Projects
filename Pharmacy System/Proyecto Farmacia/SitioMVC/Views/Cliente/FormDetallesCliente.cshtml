@@ -1,0 +1,46 @@
+﻿@model _1_EC.Cliente
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Detalles del Cliente</h2>
+
+<p>@ViewBag.Mensaje</p>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CiCli)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.CiCli)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomCli)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NomCli)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NumTarjCli)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.NumTarjCli)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TelCli)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TelCli)
+        </dd>
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Volver", "MantenimientoClientes", null, new { @class = "btn btn-default" })
+</p>

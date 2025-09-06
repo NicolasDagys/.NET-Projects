@@ -1,0 +1,46 @@
+﻿@model _1_EC.Venta
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Alta Ventas </h2>
+
+@ViewBag.Mensaje
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        <div>
+            <table class="table-bordered">
+                <tr>
+                    <td>
+                        @Html.Label("Cliente", htmlAttributes: new { @class = "control-label col-md-2" })
+                    </td>
+
+                    <td>
+                        @Html.DropDownList("cedulaCli", (SelectList)ViewBag.ListaClientes, "Selecciona Cliente")
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        @Html.LabelFor(model => model.DirEnvIoVent, htmlAttributes: new { @class = "control-label col-md-2" })
+                    </td>
+                    <td>
+                        @Html.EditorFor(model => model.DirEnvIoVent, new { @class = "form-control" })
+                    </td>
+                </tr>
+
+                <tr>
+                    <td> </td>
+                    <td> <input type="submit" value="Agregar Líneas" class="btn btn-default" />
+                    <td> </td>
+                </tr>
+            </table>
+        </div>
+        <hr />
+    </div>
+}

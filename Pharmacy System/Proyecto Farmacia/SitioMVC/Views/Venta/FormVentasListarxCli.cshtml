@@ -1,0 +1,36 @@
+﻿@model IEnumerable<_1_EC.Venta>
+
+@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Ventas Asociadas al Cliente</h2>
+
+<p>@ViewBag.Mensaje</p>
+
+<td>
+    @Html.ActionLink("Volver a Listado de Clientes", "ListadoInteractivoCliente", "Cliente")
+</td>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NumVent)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaVent)
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NumVent)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaVent)
+            </td>
+        </tr>
+    }
+</table>

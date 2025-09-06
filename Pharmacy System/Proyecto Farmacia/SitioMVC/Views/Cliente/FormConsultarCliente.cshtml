@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout2.cshtml";
+}
+
+<h2>Consultar Cliente</h2>
+
+<p>@ViewBag.Mensaje</p>
+
+@Html.ActionLink("Volver al Listado", "MantenimientoClientes")
+
+@using (Html.BeginForm("FormConsultarCliente", "Cliente", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="ciCli">Cédula del Cliente:</label>
+        <input type="text" id="ciCli" name="ciCli" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Buscar</button>
+    @Html.ActionLink("Volver al Listado", "MantenimientoClientes", null, new { @class = "btn btn-default" })
+}

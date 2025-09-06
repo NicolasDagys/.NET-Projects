@@ -1,0 +1,212 @@
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 17-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\59899\Downloads\Farmacia 19-01-2025-20250122T234800Z-001\Farmacia 19-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 26-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 26-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 26-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 26-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 27-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025 Ultimo\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025 Ultimo\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025 Ultimo\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 28-01-2025 Ultimo\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 29-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 31-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 30-01-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 03-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 04-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 07-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 09-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 12-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 13-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+D:\Archivos Camilo\01 Bios\2do. Año Analista Programador\6 Proyecto Final\Farmacia 16-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\59899\Desktop\Analista de sistemas\Obligatorio\Farmacia 18-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 20-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CopyComplete
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\user\Desktop\BIOS A.S\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persis.F3E86C48.Up2Date
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\nicol\OneDrive\Documentos\BIOS Analista\Curso\Segundo Año\Proyecto Final\Farmacia 22-02-2025\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\bin\Debug\3-Persistencia.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\bin\Debug\1-EC.pdb
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persis.F3E86C48.Up2Date
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.dll
+C:\Users\nicol\OneDrive\Desktop\Proyecto Farmacia\3-Persistencia\obj\Debug\3-Persistencia.pdb
